@@ -2,6 +2,11 @@
 Arduino MEGA2560 Shield for use with ClusterM famicom-dumper-client
 - [https://github.com/ClusterM/famicom-dumper-client](https://github.com/ClusterM/famicom-dumper-client)
 
+## Sketch
+
+Sketch for MEGA2560 developed by **HardWareMan**. Based on firmware for Famicom Dumper/Programmer by **Cluster**
+- [https://github.com/ClusterM/famicom-dumper](https://github.com/ClusterM/famicom-dumper)
+
 ## Overview
 
 ![Board](images/shield_board.png)
